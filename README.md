@@ -1,6 +1,6 @@
 This project was created as homework for the course.
--Course: Python Senior (STEP ACADEMY)
--HomeWork ID: 3
+- Course: Python Senior (STEP ACADEMY)
+- HomeWork ID: 3
 
 Links:
  - Donate: https://ko-fi.com/stasx
